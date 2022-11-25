@@ -1,0 +1,686 @@
+"sector_id","sector_nombre","variable_id","actividad_producto_nombre","indicador","unidad_de_medida","fuente","frecuencia_nombre","cobertura_nombre","alcance_tipo","alcance_id","alcance_nombre","indice_tiempo","valor"
+38,"Limón",948,"Aceite esencial de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1995-01-01,1834
+38,"Limón",948,"Aceite esencial de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1996-01-01,1815
+38,"Limón",948,"Aceite esencial de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1997-01-01,2199
+38,"Limón",948,"Aceite esencial de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1998-01-01,2659
+38,"Limón",948,"Aceite esencial de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1999-01-01,2733
+38,"Limón",948,"Aceite esencial de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2000-01-01,3204
+38,"Limón",948,"Aceite esencial de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2001-01-01,3313
+38,"Limón",948,"Aceite esencial de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2002-01-01,3460
+38,"Limón",948,"Aceite esencial de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2003-01-01,3239
+38,"Limón",948,"Aceite esencial de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2004-01-01,3600
+38,"Limón",948,"Aceite esencial de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2005-01-01,5900
+38,"Limón",948,"Aceite esencial de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2006-01-01,6000
+38,"Limón",948,"Aceite esencial de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2007-01-01,4800
+38,"Limón",948,"Aceite esencial de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2008-01-01,4000
+38,"Limón",948,"Aceite esencial de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2009-01-01,4400
+38,"Limón",948,"Aceite esencial de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2010-01-01,3250
+38,"Limón",948,"Aceite esencial de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2011-01-01,5442
+38,"Limón",948,"Aceite esencial de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2012-01-01,4344
+38,"Limón",948,"Aceite esencial de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2013-01-01,4397
+38,"Limón",948,"Aceite esencial de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2014-01-01,2413
+38,"Limón",948,"Aceite esencial de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2015-01-01,4561
+38,"Limón",948,"Aceite esencial de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2016-01-01,6050
+38,"Limón",948,"Aceite esencial de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2017-01-01,5551
+38,"Limón",948,"Aceite esencial de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2018-01-01,7538
+38,"Limón",949,"Jugo de limón concentrado congelado","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1989-01-01,15000
+38,"Limón",949,"Jugo de limón concentrado congelado","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1990-01-01,21500
+38,"Limón",949,"Jugo de limón concentrado congelado","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1991-01-01,25300
+38,"Limón",949,"Jugo de limón concentrado congelado","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1992-01-01,23700
+38,"Limón",949,"Jugo de limón concentrado congelado","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1993-01-01,26400
+38,"Limón",949,"Jugo de limón concentrado congelado","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1994-01-01,27350
+38,"Limón",949,"Jugo de limón concentrado congelado","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1995-01-01,27500
+38,"Limón",949,"Jugo de limón concentrado congelado","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1996-01-01,27800
+38,"Limón",949,"Jugo de limón concentrado congelado","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1997-01-01,33600
+38,"Limón",949,"Jugo de limón concentrado congelado","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1998-01-01,41250
+38,"Limón",949,"Jugo de limón concentrado congelado","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1999-01-01,41803
+38,"Limón",949,"Jugo de limón concentrado congelado","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2000-01-01,51000
+38,"Limón",949,"Jugo de limón concentrado congelado","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2001-01-01,50000
+38,"Limón",949,"Jugo de limón concentrado congelado","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2002-01-01,53000
+38,"Limón",949,"Jugo de limón concentrado congelado","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2003-01-01,47000
+38,"Limón",949,"Jugo de limón concentrado congelado","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2004-01-01,54000
+38,"Limón",949,"Jugo de limón concentrado congelado","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2005-01-01,59000
+38,"Limón",949,"Jugo de limón concentrado congelado","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2006-01-01,60000
+38,"Limón",949,"Jugo de limón concentrado congelado","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2007-01-01,57000
+38,"Limón",949,"Jugo de limón concentrado congelado","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2008-01-01,47900
+38,"Limón",949,"Jugo de limón concentrado congelado","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2009-01-01,55000
+38,"Limón",949,"Jugo de limón concentrado congelado","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2010-01-01,43000
+38,"Limón",949,"Jugo de limón concentrado congelado","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2011-01-01,68037
+38,"Limón",949,"Jugo de limón concentrado congelado","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2012-01-01,54307
+38,"Limón",949,"Jugo de limón concentrado congelado","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2013-01-01,49462
+38,"Limón",949,"Jugo de limón concentrado congelado","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2014-01-01,33700
+38,"Limón",949,"Jugo de limón concentrado congelado","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2015-01-01,63696
+38,"Limón",949,"Jugo de limón concentrado congelado","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2016-01-01,66547
+38,"Limón",949,"Jugo de limón concentrado congelado","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2017-01-01,63696
+38,"Limón",949,"Jugo de limón concentrado congelado","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2018-01-01,75379
+38,"Limón",949,"Jugo de limón concentrado congelado","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2019-01-01,59001
+38,"Limón",949,"Jugo de limón concentrado congelado","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2020-01-01,59001
+38,"Limón",949,"Jugo de limón concentrado congelado","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2021-01-01,52500
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",1995-01-01,470
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",1996-01-01,560
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",1997-01-01,560
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",1998-01-01,560
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",1999-01-01,560
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",2000-01-01,560
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",2001-01-01,560
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",2002-01-01,150
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",2003-01-01,150
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",2004-01-01,150
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",2005-01-01,150
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",2006-01-01,150
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",2007-01-01,98
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",2008-01-01,98
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",2009-01-01,88
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",2010-01-01,79
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",2011-01-01,67
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",2012-01-01,52
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",2013-01-01,40
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",2014-01-01,60
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",2015-01-01,45
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",2016-01-01,60
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",2017-01-01,76
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",2018-01-01,62
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","10","CATAMARCA",2001-01-01,80
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","10","CATAMARCA",2002-01-01,80
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","10","CATAMARCA",2003-01-01,50
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","10","CATAMARCA",2004-01-01,50
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","10","CATAMARCA",2005-01-01,50
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","10","CATAMARCA",2006-01-01,50
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","10","CATAMARCA",2007-01-01,50
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","10","CATAMARCA",2008-01-01,50
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","10","CATAMARCA",2009-01-01,50
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","10","CATAMARCA",2010-01-01,50
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","10","CATAMARCA",2011-01-01,50
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","10","CATAMARCA",2012-01-01,50
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","10","CATAMARCA",2013-01-01,50
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","10","CATAMARCA",2014-01-01,50
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","10","CATAMARCA",2015-01-01,50
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","10","CATAMARCA",2016-01-01,0
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","10","CATAMARCA",2017-01-01,41
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","10","CATAMARCA",2018-01-01,51
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",1995-01-01,1974
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",1996-01-01,2250
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",1997-01-01,2700
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",1998-01-01,2720
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",1999-01-01,2890
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",2000-01-01,3290
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",2001-01-01,3390
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",2002-01-01,3490
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",2003-01-01,2956
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",2004-01-01,2138
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",2005-01-01,2102
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",2006-01-01,2102
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",2007-01-01,2102
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",2008-01-01,2098
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",2009-01-01,2100
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",2010-01-01,2098
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",2011-01-01,3598
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",2012-01-01,1679
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",2013-01-01,2100
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",2014-01-01,2727
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",2015-01-01,2974
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",2016-01-01,2280
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",2017-01-01,2694
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",2018-01-01,3469
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","22","CHACO",2002-01-01,45
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","22","CHACO",2003-01-01,45
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","22","CHACO",2004-01-01,45
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","22","CHACO",2005-01-01,45
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","22","CHACO",2006-01-01,45
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","22","CHACO",2007-01-01,45
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","22","CHACO",2008-01-01,45
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","22","CHACO",2009-01-01,14
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","22","CHACO",2010-01-01,14
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","22","CHACO",2011-01-01,240
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","22","CHACO",2012-01-01,241
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","22","CHACO",2013-01-01,241
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","22","CHACO",2014-01-01,241
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","22","CHACO",2015-01-01,241
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","22","CHACO",2016-01-01,170
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","22","CHACO",2017-01-01,170
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",1995-01-01,1716
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",1996-01-01,1716
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",1997-01-01,1716
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",1998-01-01,1679
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",1999-01-01,1553
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",2000-01-01,1500
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",2001-01-01,1679
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",2002-01-01,1662
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",2003-01-01,1433
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",2004-01-01,996
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",2005-01-01,840
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",2006-01-01,996
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",2007-01-01,996
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",2008-01-01,996
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",2009-01-01,996
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",2010-01-01,996
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",2011-01-01,1126
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",2012-01-01,1126
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",2013-01-01,1126
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",2014-01-01,1126
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",2015-01-01,1126
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",2016-01-01,614
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",2017-01-01,614
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",2018-01-01,614
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","34","FORMOSA",2002-01-01,196
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","34","FORMOSA",2003-01-01,196
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","34","FORMOSA",2004-01-01,196
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","34","FORMOSA",2005-01-01,196
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","34","FORMOSA",2006-01-01,196
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","34","FORMOSA",2007-01-01,325
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","34","FORMOSA",2008-01-01,260
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","34","FORMOSA",2009-01-01,261
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","34","FORMOSA",2010-01-01,261
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","34","FORMOSA",2011-01-01,194
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","34","FORMOSA",2012-01-01,194
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","34","FORMOSA",2013-01-01,269
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","34","FORMOSA",2014-01-01,269
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","34","FORMOSA",2015-01-01,269
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","34","FORMOSA",2016-01-01,211
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","34","FORMOSA",2017-01-01,221
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","34","FORMOSA",2018-01-01,221
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",1995-01-01,960
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",1996-01-01,1110
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",1997-01-01,1320
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",1998-01-01,1480
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",1999-01-01,1600
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",2000-01-01,1638
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",2001-01-01,1798
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",2002-01-01,1978
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",2003-01-01,2138
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",2004-01-01,2138
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",2005-01-01,2100
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",2006-01-01,1580
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",2007-01-01,1440
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",2008-01-01,1440
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",2009-01-01,1460
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",2010-01-01,1520
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",2011-01-01,1576
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",2012-01-01,1576
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",2013-01-01,1576
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",2014-01-01,1694
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",2015-01-01,1697
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",2016-01-01,1697
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",2017-01-01,1834
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",2018-01-01,1984
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",1995-01-01,1560
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",1996-01-01,1700
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",1997-01-01,1800
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",1998-01-01,2000
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",1999-01-01,2350
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",2000-01-01,2000
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",2001-01-01,2000
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",2002-01-01,1800
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",2003-01-01,1800
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",2004-01-01,1257
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",2005-01-01,1257
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",2006-01-01,1257
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",2007-01-01,1257
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",2008-01-01,1257
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",2009-01-01,1257
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",2010-01-01,1257
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",2011-01-01,1257
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",2012-01-01,1257
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",2013-01-01,1257
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",2014-01-01,786
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",2015-01-01,786
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",2016-01-01,786
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",2017-01-01,786
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",2018-01-01,786
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",1995-01-01,580
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",1996-01-01,604
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",1997-01-01,732
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",1998-01-01,1732
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",1999-01-01,1760
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",2000-01-01,1850
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",2001-01-01,1850
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",2002-01-01,1850
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",2003-01-01,1850
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",2004-01-01,1850
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",2005-01-01,1900
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",2006-01-01,1900
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",2007-01-01,1900
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",2008-01-01,1900
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",2009-01-01,2118
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",2010-01-01,2300
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",2011-01-01,2500
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",2012-01-01,2599
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",2013-01-01,4688
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",2014-01-01,4688
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",2015-01-01,4788
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",2016-01-01,6809
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",2017-01-01,8009
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",2018-01-01,8309
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",1995-01-01,23818
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",1996-01-01,23904
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",1997-01-01,27000
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",1998-01-01,31400
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",1999-01-01,31400
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",2000-01-01,29500
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",2001-01-01,33000
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",2002-01-01,33500
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",2003-01-01,34600
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",2004-01-01,35000
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",2005-01-01,35000
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",2006-01-01,33921
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",2007-01-01,33921
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",2008-01-01,35700
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",2009-01-01,35000
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",2010-01-01,35000
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",2011-01-01,38020
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",2012-01-01,38020
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",2013-01-01,38020
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",2014-01-01,38020
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",2015-01-01,38640
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",2016-01-01,39180
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",2017-01-01,39180
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",2018-01-01,42050
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","98","INDETERMINADA",2016-01-01,119
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","98","INDETERMINADA",2017-01-01,119
+38,"Limón",950,"Limón","Área Sembrada","ha","FEDERCITRUS","Anual","Nacional","PROVINCIA","98","INDETERMINADA",2018-01-01,119
+38,"Limón",951,"Limón","Consumo aparente","kg/hab/año","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1995-01-01,5.09
+38,"Limón",951,"Limón","Consumo aparente","kg/hab/año","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1996-01-01,4.71
+38,"Limón",951,"Limón","Consumo aparente","kg/hab/año","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1997-01-01,3.4
+38,"Limón",951,"Limón","Consumo aparente","kg/hab/año","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1998-01-01,4.47
+38,"Limón",951,"Limón","Consumo aparente","kg/hab/año","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1999-01-01,3.53
+38,"Limón",951,"Limón","Consumo aparente","kg/hab/año","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2000-01-01,2.8
+38,"Limón",951,"Limón","Consumo aparente","kg/hab/año","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2001-01-01,2.66
+38,"Limón",951,"Limón","Consumo aparente","kg/hab/año","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2002-01-01,1.93
+38,"Limón",951,"Limón","Consumo aparente","kg/hab/año","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2003-01-01,1.48
+38,"Limón",951,"Limón","Consumo aparente","kg/hab/año","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2004-01-01,1.591
+38,"Limón",951,"Limón","Consumo aparente","kg/hab/año","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2005-01-01,1.556
+38,"Limón",951,"Limón","Consumo aparente","kg/hab/año","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2006-01-01,1.595
+38,"Limón",951,"Limón","Consumo aparente","kg/hab/año","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2007-01-01,1.514
+38,"Limón",951,"Limón","Consumo aparente","kg/hab/año","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2008-01-01,1.188
+38,"Limón",951,"Limón","Consumo aparente","kg/hab/año","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2009-01-01,0.938
+38,"Limón",951,"Limón","Consumo aparente","kg/hab/año","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2010-01-01,0.742
+38,"Limón",951,"Limón","Consumo aparente","kg/hab/año","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2011-01-01,1.588
+38,"Limón",951,"Limón","Consumo aparente","kg/hab/año","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2012-01-01,1.522
+38,"Limón",951,"Limón","Consumo aparente","kg/hab/año","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2013-01-01,1.669
+38,"Limón",951,"Limón","Consumo aparente","kg/hab/año","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2014-01-01,1.186
+38,"Limón",951,"Limón","Consumo aparente","kg/hab/año","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2015-01-01,1.753
+38,"Limón",951,"Limón","Consumo aparente","kg/hab/año","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2016-01-01,2.197
+38,"Limón",951,"Limón","Consumo aparente","kg/hab/año","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2017-01-01,3.012
+38,"Limón",951,"Limón","Consumo aparente","kg/hab/año","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2018-01-01,5.928
+38,"Limón",951,"Limón","Consumo aparente","kg/hab/año","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2019-01-01,5.928
+38,"Limón",951,"Limón","Consumo aparente","kg/hab/año","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2020-01-01,4.793
+38,"Limón",951,"Limón","Consumo aparente","kg/hab/año","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2021-01-01,5.931
+38,"Limón",952,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1985-01-01,460800
+38,"Limón",952,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1986-01-01,481000
+38,"Limón",952,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1987-01-01,460000
+38,"Limón",952,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1988-01-01,516500
+38,"Limón",952,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1989-01-01,489100
+38,"Limón",952,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1990-01-01,5e+05
+38,"Limón",952,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1991-01-01,550000
+38,"Limón",952,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1992-01-01,530000
+38,"Limón",952,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1993-01-01,605747
+38,"Limón",952,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1994-01-01,657348
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",1995-01-01,1600
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",1996-01-01,1600
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",1997-01-01,5000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",1998-01-01,6400
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",1999-01-01,5400
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",2000-01-01,3000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",2001-01-01,5400
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",2002-01-01,1200
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",2003-01-01,1000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",2004-01-01,6600
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",2005-01-01,5280
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",2006-01-01,2000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",2007-01-01,1500
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",2008-01-01,450
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",2009-01-01,800
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",2010-01-01,800
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",2011-01-01,1778
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",2012-01-01,1661
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",2013-01-01,800
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",2014-01-01,900
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",2015-01-01,900
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",2016-01-01,1200
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",2017-01-01,1200
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",2018-01-01,2109
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",2019-01-01,1900
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","06","BUENOS AIRES",2020-01-01,5000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","10","CATAMARCA",2002-01-01,0
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","10","CATAMARCA",2003-01-01,0
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","10","CATAMARCA",2004-01-01,750
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","10","CATAMARCA",2005-01-01,500
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","10","CATAMARCA",2006-01-01,400
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","10","CATAMARCA",2007-01-01,500
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","10","CATAMARCA",2008-01-01,500
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","10","CATAMARCA",2009-01-01,200
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","10","CATAMARCA",2010-01-01,400
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","10","CATAMARCA",2011-01-01,500
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","10","CATAMARCA",2012-01-01,500
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","10","CATAMARCA",2013-01-01,250
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","10","CATAMARCA",2014-01-01,350
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","10","CATAMARCA",2015-01-01,350
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","10","CATAMARCA",2016-01-01,0
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","10","CATAMARCA",2017-01-01,2050
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","10","CATAMARCA",2018-01-01,2193
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","10","CATAMARCA",2019-01-01,2193
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","10","CATAMARCA",2020-01-01,1260
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",1995-01-01,39000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",1996-01-01,31600
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",1997-01-01,43960
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",1998-01-01,31000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",1999-01-01,24500
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",2000-01-01,31200
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",2001-01-01,31200
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",2002-01-01,35200
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",2003-01-01,32200
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",2004-01-01,32000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",2005-01-01,32000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",2006-01-01,35000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",2007-01-01,35000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",2008-01-01,35000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",2009-01-01,35000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",2010-01-01,35000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",2011-01-01,155000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",2012-01-01,35000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",2013-01-01,35000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",2014-01-01,109000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",2015-01-01,109000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",2016-01-01,51240
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",2017-01-01,60615
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",2018-01-01,78500
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",2019-01-01,51194
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","18","CORRIENTES",2020-01-01,81100
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","22","CHACO",2007-01-01,360
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","22","CHACO",2008-01-01,360
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","22","CHACO",2009-01-01,360
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","22","CHACO",2010-01-01,360
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","22","CHACO",2011-01-01,360
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","22","CHACO",2012-01-01,360
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","22","CHACO",2013-01-01,430
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","22","CHACO",2014-01-01,430
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","22","CHACO",2015-01-01,430
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","22","CHACO",2016-01-01,0
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","22","CHACO",2017-01-01,0
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",1995-01-01,43000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",1996-01-01,30400
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",1997-01-01,35000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",1998-01-01,34132
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",1999-01-01,28846
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",2000-01-01,29096
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",2001-01-01,36370
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",2002-01-01,27540
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",2003-01-01,26440
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",2004-01-01,19121
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",2005-01-01,19121
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",2006-01-01,19121
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",2007-01-01,19121
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",2008-01-01,16253
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",2009-01-01,16253
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",2010-01-01,15000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",2011-01-01,15000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",2012-01-01,15000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",2013-01-01,15000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",2014-01-01,15000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",2015-01-01,16500
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",2016-01-01,18000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",2017-01-01,16200
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",2018-01-01,16200
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",2019-01-01,16200
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","30","ENTRE RIOS",2020-01-01,16200
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","34","FORMOSA",2007-01-01,111
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","34","FORMOSA",2008-01-01,120
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","34","FORMOSA",2009-01-01,120
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","34","FORMOSA",2010-01-01,154
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","34","FORMOSA",2011-01-01,154
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","34","FORMOSA",2012-01-01,850
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","34","FORMOSA",2013-01-01,1340
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","34","FORMOSA",2014-01-01,1340
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","34","FORMOSA",2015-01-01,1340
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","34","FORMOSA",2016-01-01,1105
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","34","FORMOSA",2017-01-01,1105
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","34","FORMOSA",2018-01-01,1105
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","34","FORMOSA",2019-01-01,774
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","34","FORMOSA",2020-01-01,774
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",1995-01-01,26880
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",1996-01-01,19488
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",1997-01-01,27000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",1998-01-01,20468
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",1999-01-01,29000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",2000-01-01,30000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",2001-01-01,29850
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",2002-01-01,47496
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",2003-01-01,51312
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",2004-01-01,54677
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",2005-01-01,54677
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",2006-01-01,36320
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",2007-01-01,38440
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",2008-01-01,35365
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",2009-01-01,36465
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",2010-01-01,34642
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",2011-01-01,45000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",2012-01-01,42100
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",2013-01-01,42100
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",2014-01-01,45447
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",2015-01-01,49025
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",2016-01-01,46029
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",2017-01-01,47000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",2018-01-01,51352
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",2019-01-01,51352
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","38","JUJUY",2020-01-01,84707
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",1995-01-01,18000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",1996-01-01,16122
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",1997-01-01,17000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",1998-01-01,11030
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",1999-01-01,10780
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",2000-01-01,13520
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",2001-01-01,4840
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",2002-01-01,8156
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",2003-01-01,8218
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",2004-01-01,6223
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",2005-01-01,7398
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",2006-01-01,7713
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",2007-01-01,8140
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",2008-01-01,7242
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",2009-01-01,9331
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",2010-01-01,7019
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",2011-01-01,11059
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",2012-01-01,7614
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",2013-01-01,7059
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",2014-01-01,4551
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",2015-01-01,7342
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",2016-01-01,5653
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",2017-01-01,7411
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",2018-01-01,8671
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",2019-01-01,8671
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","54","MISIONES",2020-01-01,8671
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",1995-01-01,4896
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",1996-01-01,8448
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",1997-01-01,6179
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",1998-01-01,13243
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",1999-01-01,6499
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",2000-01-01,7400
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",2001-01-01,7400
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",2002-01-01,11450
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",2003-01-01,11450
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",2004-01-01,16650
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",2005-01-01,85550
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",2006-01-01,85550
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",2007-01-01,85500
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",2008-01-01,85500
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",2009-01-01,120000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",2010-01-01,84000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",2011-01-01,87500
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",2012-01-01,77984
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",2013-01-01,77984
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",2014-01-01,77984
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",2015-01-01,143640
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",2016-01-01,204270
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",2017-01-01,240270
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",2018-01-01,249270
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",2019-01-01,203940
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","66","SALTA",2020-01-01,203940
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",1995-01-01,586727
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",1996-01-01,595152
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",1997-01-01,720000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",1998-01-01,906699
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",1999-01-01,935832
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",2000-01-01,1047213
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",2001-01-01,1100000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",2002-01-01,1180000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",2003-01-01,1103900
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",2004-01-01,1202331
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",2005-01-01,1292080
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",2006-01-01,1316300
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",2007-01-01,1328300
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",2008-01-01,1181400
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",2009-01-01,1207000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",2010-01-01,936000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",2011-01-01,1440000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",2012-01-01,1275000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",2013-01-01,1306000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",2014-01-01,698888
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",2015-01-01,1233079
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",2016-01-01,1350840
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",2017-01-01,1300000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",2018-01-01,1580000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",2019-01-01,1679765
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","90","TUCUMAN",2020-01-01,1573000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","98","INDETERMINADA",1995-01-01,21487
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","98","INDETERMINADA",1996-01-01,17190
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","98","INDETERMINADA",1997-01-01,17000
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","98","INDETERMINADA",1998-01-01,1857
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","98","INDETERMINADA",1999-01-01,1800
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","98","INDETERMINADA",2000-01-01,1800
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","98","INDETERMINADA",2001-01-01,1800
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","98","INDETERMINADA",2002-01-01,1800
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","98","INDETERMINADA",2003-01-01,1800
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","98","INDETERMINADA",2004-01-01,1800
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","98","INDETERMINADA",2005-01-01,1800
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","98","INDETERMINADA",2006-01-01,1800
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","98","INDETERMINADA",2007-01-01,0
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","98","INDETERMINADA",2008-01-01,0
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","98","INDETERMINADA",2009-01-01,0
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","98","INDETERMINADA",2010-01-01,0
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","98","INDETERMINADA",2011-01-01,0
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","98","INDETERMINADA",2012-01-01,0
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","98","INDETERMINADA",2013-01-01,0
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","98","INDETERMINADA",2014-01-01,0
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","98","INDETERMINADA",2015-01-01,0
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","98","INDETERMINADA",2016-01-01,0
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","98","INDETERMINADA",2017-01-01,0
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","98","INDETERMINADA",2018-01-01,0
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","98","INDETERMINADA",2019-01-01,0
+38,"Limón",953,"Limón","Producción","tn","FEDERCITRUS","Anual","Nacional","PROVINCIA","98","INDETERMINADA",2020-01-01,0
+38,"Limón",954,"Limón_Consumo interno","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1995-01-01,168000
+38,"Limón",954,"Limón_Consumo interno","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1996-01-01,70000
+38,"Limón",954,"Limón_Consumo interno","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1997-01-01,115627
+38,"Limón",954,"Limón_Consumo interno","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1998-01-01,156898
+38,"Limón",954,"Limón_Consumo interno","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1999-01-01,123525
+38,"Limón",954,"Limón_Consumo interno","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2000-01-01,79848
+38,"Limón",954,"Limón_Consumo interno","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2001-01-01,95630
+38,"Limón",954,"Limón_Consumo interno","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2002-01-01,47554
+38,"Limón",954,"Limón_Consumo interno","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2003-01-01,53406
+38,"Limón",954,"Limón_Consumo interno","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2004-01-01,57263
+38,"Limón",954,"Limón_Consumo interno","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2005-01-01,56028
+38,"Limón",954,"Limón_Consumo interno","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2006-01-01,57408
+38,"Limón",954,"Limón_Consumo interno","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2007-01-01,54519
+38,"Limón",954,"Limón_Consumo interno","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2008-01-01,42770
+38,"Limón",954,"Limón_Consumo interno","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2009-01-01,35645
+38,"Limón",954,"Limón_Consumo interno","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2010-01-01,29669
+38,"Limón",954,"Limón_Consumo interno","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2011-01-01,63687
+38,"Limón",954,"Limón_Consumo interno","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2012-01-01,61071
+38,"Limón",954,"Limón_Consumo interno","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2013-01-01,66936
+38,"Limón",954,"Limón_Consumo interno","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2014-01-01,47574
+38,"Limón",954,"Limón_Consumo interno","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2015-01-01,41429
+38,"Limón",954,"Limón_Consumo interno","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2016-01-01,88152
+38,"Limón",954,"Limón_Consumo interno","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2017-01-01,120846
+38,"Limón",954,"Limón_Consumo interno","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2018-01-01,129818
+38,"Limón",954,"Limón_Consumo interno","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2019-01-01,270158
+38,"Limón",954,"Limón_Consumo interno","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2020-01-01,192268
+38,"Limón",954,"Limón_Consumo interno","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2021-01-01,237931
+38,"Limón",955,"Limón_Exportación en fresco","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1995-01-01,111055
+38,"Limón",955,"Limón_Exportación en fresco","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1996-01-01,170000
+38,"Limón",955,"Limón_Exportación en fresco","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1997-01-01,175512
+38,"Limón",955,"Limón_Exportación en fresco","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1998-01-01,155931
+38,"Limón",955,"Limón_Exportación en fresco","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1999-01-01,197608
+38,"Limón",955,"Limón_Exportación en fresco","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2000-01-01,205523
+38,"Limón",955,"Limón_Exportación en fresco","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2001-01-01,237792
+38,"Limón",955,"Limón_Exportación en fresco","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2002-01-01,268052
+38,"Limón",955,"Limón_Exportación en fresco","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2003-01-01,335925
+38,"Limón",955,"Limón_Exportación en fresco","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2004-01-01,319199
+38,"Limón",955,"Limón_Exportación en fresco","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2005-01-01,379463
+38,"Limón",955,"Limón_Exportación en fresco","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2006-01-01,325632
+38,"Limón",955,"Limón_Exportación en fresco","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2007-01-01,358526
+38,"Limón",955,"Limón_Exportación en fresco","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2008-01-01,395791
+38,"Limón",955,"Limón_Exportación en fresco","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2009-01-01,253976
+38,"Limón",955,"Limón_Exportación en fresco","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2010-01-01,259831
+38,"Limón",955,"Limón_Exportación en fresco","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2011-01-01,244105
+38,"Limón",955,"Limón_Exportación en fresco","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2012-01-01,272450
+38,"Limón",955,"Limón_Exportación en fresco","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2013-01-01,282719
+38,"Limón",955,"Limón_Exportación en fresco","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2014-01-01,153445
+38,"Limón",955,"Limón_Exportación en fresco","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2015-01-01,185264
+38,"Limón",955,"Limón_Exportación en fresco","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2016-01-01,279543
+38,"Limón",955,"Limón_Exportación en fresco","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2017-01-01,243762
+38,"Limón",955,"Limón_Exportación en fresco","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2018-01-01,272433
+38,"Limón",955,"Limón_Exportación en fresco","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2019-01-01,234694
+38,"Limón",955,"Limón_Exportación en fresco","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2020-01-01,258100
+38,"Limón",955,"Limón_Exportación en fresco","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2021-01-01,265377
+38,"Limón",956,"Limón_Industria","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1995-01-01,462535
+38,"Limón",956,"Limón_Industria","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1996-01-01,480000
+38,"Limón",956,"Limón_Industria","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1997-01-01,580000
+38,"Limón",956,"Limón_Industria","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1998-01-01,712000
+38,"Limón",956,"Limón_Industria","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1999-01-01,721524
+38,"Limón",956,"Limón_Industria","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2000-01-01,877858
+38,"Limón",956,"Limón_Industria","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2001-01-01,859531
+38,"Limón",956,"Limón_Industria","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2002-01-01,984108
+38,"Limón",956,"Limón_Industria","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2003-01-01,809899
+38,"Limón",956,"Limón_Industria","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2004-01-01,923485
+38,"Limón",956,"Limón_Industria","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2005-01-01,1017963
+38,"Limón",956,"Limón_Industria","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2006-01-01,1045954
+38,"Limón",956,"Limón_Industria","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2007-01-01,1058418
+38,"Limón",956,"Limón_Industria","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2008-01-01,889574
+38,"Limón",956,"Limón_Industria","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2009-01-01,1100270
+38,"Limón",956,"Limón_Industria","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2010-01-01,812741
+38,"Limón",956,"Limón_Industria","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2011-01-01,1360741
+38,"Limón",956,"Limón_Industria","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2012-01-01,1086146
+38,"Limón",956,"Limón_Industria","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2013-01-01,1099159
+38,"Limón",956,"Limón_Industria","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2014-01-01,603300
+38,"Limón",956,"Limón_Industria","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2015-01-01,1140287
+38,"Limón",956,"Limón_Industria","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2016-01-01,1209942
+38,"Limón",956,"Limón_Industria","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2017-01-01,1110141
+38,"Limón",956,"Limón_Industria","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2018-01-01,1507573
+38,"Limón",956,"Limón_Industria","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2019-01-01,1180019
+38,"Limón",956,"Limón_Industria","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2020-01-01,1180019
+38,"Limón",956,"Limón_Industria","Producción según destino","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2021-01-01,1050000
+38,"Limón",957,"Pulpa congelada de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1995-01-01,500
+38,"Limón",957,"Pulpa congelada de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1996-01-01,418
+38,"Limón",957,"Pulpa congelada de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1997-01-01,522
+38,"Limón",957,"Pulpa congelada de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1998-01-01,640
+38,"Limón",957,"Pulpa congelada de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",1999-01-01,650
+38,"Limón",957,"Pulpa congelada de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2000-01-01,770
+38,"Limón",957,"Pulpa congelada de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2001-01-01,750
+38,"Limón",957,"Pulpa congelada de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2002-01-01,780
+38,"Limón",957,"Pulpa congelada de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2003-01-01,640
+38,"Limón",957,"Pulpa congelada de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2004-01-01,730
+38,"Limón",957,"Pulpa congelada de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2005-01-01,800
+38,"Limón",957,"Pulpa congelada de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2006-01-01,820
+38,"Limón",957,"Pulpa congelada de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2007-01-01,800
+38,"Limón",957,"Pulpa congelada de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2008-01-01,670
+38,"Limón",957,"Pulpa congelada de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2009-01-01,820
+38,"Limón",957,"Pulpa congelada de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2010-01-01,600
+38,"Limón",957,"Pulpa congelada de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2011-01-01,1007
+38,"Limón",957,"Pulpa congelada de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2012-01-01,804
+38,"Limón",957,"Pulpa congelada de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2013-01-01,813
+38,"Limón",957,"Pulpa congelada de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2014-01-01,452
+38,"Limón",957,"Pulpa congelada de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2015-01-01,854
+38,"Limón",957,"Pulpa congelada de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2016-01-01,907
+38,"Limón",957,"Pulpa congelada de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2017-01-01,832
+38,"Limón",957,"Pulpa congelada de limón","Elaboración","tn","FEDERCITRUS","Anual","Nacional","PAIS","200","Argentina",2018-01-01,1131
+38,"Limón",1005,"Limón","Producción","tn","EEAOC","Anual","Provincial","PROVINCIA","90","TUCUMAN",2008-01-01,1185400
+38,"Limón",1005,"Limón","Producción","tn","EEAOC","Anual","Provincial","PROVINCIA","90","TUCUMAN",2009-01-01,1207000
+38,"Limón",1005,"Limón","Producción","tn","EEAOC","Anual","Provincial","PROVINCIA","90","TUCUMAN",2010-01-01,936000
+38,"Limón",1005,"Limón","Producción","tn","EEAOC","Anual","Provincial","PROVINCIA","90","TUCUMAN",2011-01-01,1440000
+38,"Limón",1005,"Limón","Producción","tn","EEAOC","Anual","Provincial","PROVINCIA","90","TUCUMAN",2012-01-01,1240000
+38,"Limón",1005,"Limón","Producción","tn","EEAOC","Anual","Provincial","PROVINCIA","90","TUCUMAN",2013-01-01,1377000
+38,"Limón",1005,"Limón","Producción","tn","EEAOC","Anual","Provincial","PROVINCIA","90","TUCUMAN",2014-01-01,588000
+38,"Limón",1005,"Limón","Producción","tn","EEAOC","Anual","Provincial","PROVINCIA","90","TUCUMAN",2015-01-01,1233000
+38,"Limón",1005,"Limón","Producción","tn","EEAOC","Anual","Provincial","PROVINCIA","90","TUCUMAN",2016-01-01,1350840
+38,"Limón",1005,"Limón","Producción","tn","EEAOC","Anual","Provincial","PROVINCIA","90","TUCUMAN",2017-01-01,1310000
+38,"Limón",1005,"Limón","Producción","tn","EEAOC","Anual","Provincial","PROVINCIA","90","TUCUMAN",2018-01-01,1575000
+38,"Limón",1005,"Limón","Producción","tn","EEAOC","Anual","Provincial","PROVINCIA","90","TUCUMAN",2019-01-01,1780000
